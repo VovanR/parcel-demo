@@ -12,6 +12,7 @@ Start project development
 ```
 yarn start
 ```
+Open http://localhost:1234
 
 ## Build
 ```
