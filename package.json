@@ -23,7 +23,7 @@
   "homepage": "https://github.com/inside-demo/parcel-demo",
   "devDependencies": {
     "gh-pages": "^1.1.0",
-    "parcel-bundler": "^1.2.1"
+    "parcel-bundler": "^1.8.1"
   },
   "engines": {
     "node": ">= 6"
